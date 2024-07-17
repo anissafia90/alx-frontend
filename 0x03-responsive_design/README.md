@@ -1,4 +1,4 @@
-# 0x06. Responsive design
+# 0x03. Responsive design
 
 ## Description:bulb:
 How to build responsive websites
